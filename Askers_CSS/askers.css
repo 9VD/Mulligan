@@ -1,0 +1,13 @@
+body{
+  background-color: #3a3a3a;
+}
+
+.askers {
+    display: block;
+    width: 40vw;
+    height: 40vh;
+    background-image: url(https://s3.gifyu.com/images/askers.gif);
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
