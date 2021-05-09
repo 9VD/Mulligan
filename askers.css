@@ -2,7 +2,7 @@ body {
   background-color: #3a3a3a;
   margin: 0;
 }
-
+/*
 @keyframes drinkers-anim {
   20%, 35%, 50%, 65% {
     transform: translate(-17vh, -12vw) rotate(-140deg);
@@ -35,7 +35,7 @@ body {
   top: 25vh;
   right: 11vw;
 }
-
+*/
 .askers {
   display: inline-block;
   width: 25vw;
