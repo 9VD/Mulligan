@@ -1,6 +1,8 @@
 body {
   background-color: #3a3a3a;
-  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 /*
 @keyframes drinkers-anim {
@@ -42,11 +44,27 @@ body {
   height: 40vh;
   background-repeat: no-repeat;
   background-size: contain;
+  margin: auto;
 }
 
 .askers.JadeAskers {
   background-image: url(https://cdn.betterttv.net/emote/605edd557493072efdeb568c/3x);
 }
+
 .askers.SOYcheck {
   background-image: url();
+}
+
+.mrmBald {
+  height: 5000px
+}
+
+.goblin {
+  display: inline-block;
+  width: 20vw;
+  height: 40vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(https://i.ibb.co/0mXn2VK/goblin.png);
+  margin: auto;
 }
