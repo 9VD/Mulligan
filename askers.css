@@ -71,10 +71,13 @@ body {
 
 .gappy {
   display: inline-block;
-  width: 20vw;
+  width: 25vw;
   height: 40vh;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(https://i.ibb.co/cQbcbFy/gappy-Soy-full-size.png);
   margin: auto;
+}
+
+.gappy.gappyimage {
+  background-image: url(https://cdn.betterttv.net/emote/605edd557493072efdeb568c/3x);
 }
