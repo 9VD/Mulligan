@@ -68,3 +68,13 @@ body {
   background-image: url(https://i.ibb.co/0mXn2VK/goblin.png);
   margin: auto;
 }
+
+.gappy {
+  display: inline-block;
+  width: 20vw;
+  height: 40vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(https://i.imgur.com/etWXHkB.jpg);
+  margin: auto;
+}
